@@ -12,7 +12,7 @@ For this project I was able to complete only one webpage, which is the main todo
 
 # Development Environment
 
-Visual Studio Code
+Visual Studio Code 
 
 Python 3.9.7 64-bit
 
