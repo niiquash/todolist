@@ -4,7 +4,7 @@ This is a simple todo list. In the future, I will be adding some other functiona
 
 I wrote this software to learn how to build web applications using the python Django framework. I have learned that this framework provides a solid foundation around which super cool looking apps can be developed. It also provide a means to store data in databases, and the ability to run your programs on a local server. I'm going to learn how to deploy my web apps using Django-heroku next.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/7W4S9mWKHVo)
 
 # Web Pages
 
